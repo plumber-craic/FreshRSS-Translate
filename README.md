@@ -12,7 +12,7 @@ This is a fork of [jacob2826's TranslateTitlesCN](https://github.com/jacob2826/F
 
 <img src="img/2025-10-06_21-46.png" width="300px"/>
 <img src="img/2025-10-06_21-43.png" width="300px"/>
-<img src="2025-10-06_21-45.png" width="300px"/>
+<img src="img/2025-10-06_21-45.png" width="300px"/>
 
 ## Installation
 
