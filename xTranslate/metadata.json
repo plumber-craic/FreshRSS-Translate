@@ -1,0 +1,9 @@
+{
+    "name": "Translate",
+    "version": "0.0.1",
+    "description": "Translate article content of the specified feed.",
+    "author": "plumber-craic, forked from jacob2826",
+    "website": "https://github.com/plumber-craic/FreshRSS-Translate",
+    "entrypoint": "Translate",
+    "type": "user"
+}
